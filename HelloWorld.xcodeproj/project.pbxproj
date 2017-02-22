@@ -358,12 +358,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: santosh botre (BJ2MU3BWU8)";
 				DEVELOPMENT_TEAM = VB78Y67GX6;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fb5cc13a-1035-4c6c-a813-98ab9f7381fc";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS WildCard Profile";
 			};
 			name = Debug;
@@ -372,12 +371,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: santosh botre (BJ2MU3BWU8)";
 				DEVELOPMENT_TEAM = VB78Y67GX6;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fb5cc13a-1035-4c6c-a813-98ab9f7381fc";
 				PROVISIONING_PROFILE_SPECIFIER = "iOS WildCard Profile";
 			};
 			name = Release;
